@@ -40,4 +40,6 @@ models:
      jsondata:
       +materialized: table
      xmldata_data:
-      +materialized: table     
+      +materialized: table   
+     casestudy:
+      +materialized: table  

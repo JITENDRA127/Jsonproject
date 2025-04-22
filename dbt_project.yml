@@ -42,4 +42,6 @@ models:
      xmldata_data:
       +materialized: view   
      casestudy:
+      +materialized: table
+     jsondata1:
       +materialized: table  
